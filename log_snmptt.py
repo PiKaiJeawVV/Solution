@@ -1,3 +1,4 @@
+## For Switch Huawei ##
 import mysql.connector
 import time
 import datetime
